@@ -8,7 +8,7 @@ As I wrote this code when I was a newb to web development, so the code may not b
 Works best with google chrome, didn't test with firefox and I am pretty sure it won't work with edge/IE.
 
 # Demo
-[![Demo Link](https://i.gyazo.com/be5a82b232ed747084e1c640f8874a98.png)](https://www.youtube.com/watch?v=rJ_SCEZM59Q&t=2s)
+[![Demo Link](https://i.gyazo.com/be5a82b232ed747084e1c640f8874a98.png)](https://www.youtube.com/watch?v=bLJzrgltMjU)
 
 # External Libraries used
 * [SampQueryAPI](http://forum.sa-mp.com/showthread.php?t=104299)
