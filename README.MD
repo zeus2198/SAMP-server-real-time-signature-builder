@@ -9,6 +9,17 @@ Works best with google chrome, didn't test with firefox and I am pretty sure it 
 
 [**You can use this tool by clicking here**](http://exmserv.me/sampsig)
 
+## Features
+* Drag-drop interference for easily designing the signatures.
+* Option to use custom fonts. *
+* Option to use custom font colors.
+* Option to add outline/stroke to text.
+* You can either use a solid color or a custom picture as a background, has the option to upload or use image by URL. **
+* Additional images can be added too via URL or by uploading. **
+
+#### * Fonts are uploaded to the server to the '/gd_fonts/' directory by default.
+#### ** Images are not uploaded to server, they are uploaded to [imgur.com](https://imgur.com)
+
 # Demo
 [![Demo Link](https://i.gyazo.com/be5a82b232ed747084e1c640f8874a98.png)](https://www.youtube.com/watch?v=bLJzrgltMjU)
 
