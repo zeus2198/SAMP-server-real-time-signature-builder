@@ -6,6 +6,7 @@ I made this tool back in 2014 and released it, didn't open sourced it though, on
 As I wrote this code when I was a newb to web development, so the code may not be written in the best manner can probably be optimized/improved.
 
 Works best with google chrome, didn't test with firefox and I am pretty sure it won't work with edge/IE.
+
 [**You can use this tool by clicking here**](http://exmserv.me/sampsig)
 
 # Demo
