@@ -1,9 +1,9 @@
 # Introduction
 This is a tool that is used to build real-time [SA-MP](http://sa-mp.com) server signatures.
 
-I made this tool back in 2014 and released it, didn't open sourced it though, on SA-MP forum in 2015 but it was buggy at that time so didn't catch any attention, I fixed major bugs recently so decided to release it.
+I made this tool back in 2014 and released it(didn't open sourced it though) on SA-MP forum in 2015 but it was buggy at that time so it didn't catch any attention. I recently fixed major bugs and as I have no intention of improving this project anymore so I decided to make it open-source.
 
-As I wrote this code when I was a newb to web development, so the code may not be written in the best manner can probably be optimized/improved.
+I wrote this code when I was a newb to web development, so the code may not be written in the best manner and can probably be optimized/improved.
 
 Works best with google chrome, didn't test with firefox and I am pretty sure it won't work with edge/IE.
 
